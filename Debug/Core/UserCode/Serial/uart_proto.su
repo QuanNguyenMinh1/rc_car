@@ -1,0 +1,2 @@
+../Core/UserCode/Serial/uart_proto.c:20:8:UART_get_data	48	static
+../Core/UserCode/Serial/uart_proto.c:95:6:UART_frame_data	32	static

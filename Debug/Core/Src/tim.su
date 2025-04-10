@@ -1,0 +1,4 @@
+../Core/Src/tim.c:20:6:MX_TIM1_Init	56	static
+../Core/Src/tim.c:70:6:MX_TIM2_Init	64	static
+../Core/Src/tim.c:141:6:MX_TIM3_Init	32	static
+../Core/Src/tim.c:186:6:MX_TIM4_Init	56	static

@@ -1,0 +1,2 @@
+../Core/UserCode/Serial/crc16.c:54:10:crc16_buff	2
+../Core/UserCode/Serial/crc16.c:62:10:crc16_floating	1

@@ -1,0 +1,4 @@
+../Core/UserCode/Serial/serial.c:32:6:serial_init	1
+../Core/UserCode/Serial/serial.c:68:6:serial_write_com	1
+../Core/UserCode/Serial/serial.c:124:6:serial_handle	6
+../Core/UserCode/Serial/serial.c:158:6:StrCompare	3

@@ -1,0 +1,7 @@
+../Core/UserCode/Motor/motor.c:11:6:motor_reset	16	static
+../Core/UserCode/Motor/motor.c:30:6:motor_init	16	static
+../Core/UserCode/Motor/motor.c:59:6:motor_deinit	16	static
+../Core/UserCode/Motor/motor.c:83:6:motor_read_encoder	24	static
+../Core/UserCode/Motor/motor.c:165:6:motor_set_duty	16	static
+../Core/UserCode/Motor/motor.c:195:6:motor_set_velocity	24	static
+../Core/UserCode/Motor/motor.c:206:6:motor_set_position	24	static

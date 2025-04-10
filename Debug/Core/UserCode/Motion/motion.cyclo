@@ -1,0 +1,3 @@
+../Core/UserCode/Motion/motion.c:25:6:profile_init	1
+../Core/UserCode/Motion/motion.c:55:6:compute_trapezoidal	7
+../Core/UserCode/Motion/motion.c:98:6:compute_scurve	9
